@@ -20,11 +20,11 @@
       "name": "Programming Languages",
       "skills": [
         { "name": "Python", "level": "Expert" },
-        { "name": "SQL", "level": "Advanced" },
+        { "name": "SQL", "level": "Expert" },
         { "name": "PHP", "level": "Intermediate" },
         { "name": "HTML", "level": "Advanced" },
         { "name": "MATLAB", "level": "Intermediate" },
-        { "name": "R", "level": "Intermediate" },
+        { "name": "R", "level": "Advanced" },
         { "name": "C", "level": "Intermediate" },
         { "name": "C++", "level": "Intermediate" },
         { "name": "C#", "level": "Intermediate" },
