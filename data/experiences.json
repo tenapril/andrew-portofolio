@@ -1,0 +1,110 @@
+[
+  {
+    "company": "Paper.id",
+    "position": "Senior Data Engineer",
+    "period": "05/2024 – Present",
+    "logo": "https://play-lh.googleusercontent.com/v1ErvbW_u5S4XtZg5_y1ImX4hKaBDSxMaPOMTA7r5N1JGl7putxXpuKKGv1yHKB9tw",
+    "responsibilities": [
+      "Creating a streaming pipeline to ingest data from App DB to Google BigQuery from scratch using Google Datastream, Pub/Sub, and Dataflow",
+      "Fixed existing DBT ELT inefficiencies that can improve the development time by around 100%",
+      "Reducing cost in BigQuery by identifying the problem, helping to reduce cost around 20% per month",
+      "Responsible for guiding other Data Engineer in their respective projects",
+      "Created a cost management dashboard that tracks the cost of each projects each day"
+    ],
+    "tools": ["Airflow", "DBT", "Google BigQuery", "ArangoDB", "Datastream", "Pub/Sub", "Python (Pandas, FastAPI, google-cloud)", "Docker"]
+  },
+  {
+    "company": "Flip.id",
+    "position": "Data Engineer Manager",
+    "period": "12/2022 – 05/2024",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Logo_flip.png",
+    "responsibilities": [
+      "Creating a streaming pipeline to ingest data from App DB to Google BigQuery from scratch using Google Datastream, Pub/Sub, and Dataflow",
+      "Create an end to end ELT pipeline with DBT from scratch, implementing test and query dependencies",
+      "Manage the cost in BigQuery by applying strict Partitioning and Clustering, helping to reduce cost around 20% per month",
+      "Managing Data Warehouse structure to scale with microservices infrastructure in Flip",
+      "Responsible for hiring a new Data Engineer team from zero",
+      "Creating job description, career framework, entry test, and interview questions for the Data Engineer team",
+      "Currently managing a team of 3 Data Engineers that reports directly to me",
+      "Make a pipeline that consume Facebook, Google, and Appsflyer API daily to automatically store it to DB",
+      "Make a pipeline to store Finance Journaling data to Netsuite",
+      "Creating a credit scoring POC for Flip's new lending product with Docker and FastAPI",
+      "Provisioning Redash and Looker Studio Analytics Dashboard for Analysts and end user",
+      "Responsible for our weekly releases"
+    ],
+    "tools": ["DBT", "Google BigQuery", "Apache Beam / Dataflow", "Datastream", "Pub/Sub", "Python (Pandas, FastAPI, google-cloud)", "Docker", "GitLab CI"]
+  },
+  {
+    "company": "Flip.id",
+    "position": "Senior Data Engineer",
+    "period": "09/2021 – 12/2022",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Logo_flip.png",
+    "responsibilities": [
+      "Creating a streaming pipeline to ingest data from App DB to Google BigQuery from scratch using Google Datastream, Pub/Sub, and Dataflow",
+      "Create an end to end ELT pipeline with DBT from scratch, implementing test and query dependencies",
+      "Manage the cost in BigQuery by applying strict Partitioning and Clustering, helping to reduce cost around 20% per month",
+      "Managing Data Warehouse structure to scale with microservices infrastructure in Flip",
+      "Make a pipeline that consume Facebook, Google, and Appsflyer API daily to automatically store it to DB",
+      "Make a pipeline to store Finance Journaling data to Netsuite",
+      "Creating a credit scoring POC for Flip's new lending product with Docker and FastAPI",
+      "Provisioning Redash and Looker Studio Analytics Dashboard for Analysts and end user",
+      "Responsible for our weekly releases"
+    ],
+    "tools": ["DBT", "Google BigQuery", "Apache Beam / Dataflow", "Datastream", "Pub/Sub", "Python (Pandas, FastAPI, google-cloud)", "Docker", "GitLab CI"]
+  },
+  {
+    "company": "JULO",
+    "position": "Senior Data Engineer",
+    "period": "1/2021 – 9/2021",
+    "logo": "https://d3g5ywftkpzr0e.cloudfront.net/wp-content/uploads/2019/04/14225727/julo-1.png",
+    "responsibilities": [
+      "Making sure that our Data Pipeline (Airflow) is running alright 24/7 , fixing it if there's a problem",
+      "Responsible for making sure that the features my team generated is perfect for Data Scientist to use",
+      "Creating a replica to stream to the master DB for analytics purposes",
+      "Responsible for making daily shell scripting and bug fixing",
+      "Model deployment using Docker, H2O and feature implementation in Django",
+      "Make a pipeline that consume Facebook, Google, and Appsflyer API daily to automatically store it to DB",
+      "Designing and implementing a PG 10 partition using range for existing big tables",
+      "Designing action log data archiver that automatically partition a PG DB with almost billion rows of data",
+      "Integrating CircleCI in the repo for automatically testing and deploy",
+      "Responsible for weekly releases in our Data Platform",
+      "Maintaining and Reducing cost in AWS and GCP Platform"
+    ],
+    "tools": ["Airflow", "Ansible", "AWS (All Data Tools)", "Alibaba", "GCP (GCE, BigQuery, CloudSQL, GCS)", "Docker", "Spark", "Postgres", "CircleCI"]
+  },
+  {
+    "company": "JULO",
+    "position": "Data Engineer",
+    "period": "8/2018 – 1/2021",
+    "logo": "https://d3g5ywftkpzr0e.cloudfront.net/wp-content/uploads/2019/04/14225727/julo-1.png",
+    "responsibilities": [
+      "Making sure that our Data Pipeline (Airflow) is running alright 24/7 , fixing it if there's a problem",
+      "Responsible for making sure that the features my team generated is perfect for Data Scientist to use",
+      "Creating a replica to stream to the master DB for analytics purposes",
+      "Responsible for making daily shell scripting and bug fixing",
+      "Model deployment using Docker, H2O and feature implementation in Django",
+      "Make a pipeline that consume Facebook, Google, and Appsflyer API daily to automatically store it to DB",
+      "Designing and implementing a PG 10 partition using range for existing big tables",
+      "Designing action log data archiver that automatically partition a PG DB with almost billion rows of data",
+      "Integrating CircleCI in the repo for automatically testing and deploy",
+      "Responsible for weekly releases in our Data Platform",
+      "Maintaining and Reducing cost in AWS and GCP Platform"
+    ],
+    "tools": ["Airflow", "Ansible", "AWS (All Data Tools)", "Alibaba", "GCP (GCE, BigQuery, CloudSQL, GCS)", "Docker", "Spark", "Postgres", "CircleCI"]
+  },
+  {
+    "company": "PHI-Integration",
+    "position": "Data Engineer and Analyst",
+    "period": "6/2017 – 5/2018",
+    "logo": "https://xeratic.com/assets/images/logo.png?ver=2",
+    "responsibilities": [
+      "Responsible for modeling in Azure Machine Learning using R to predict price of a goods using linear model and SARIMA (Seasonal Autoregressive Integrated Moving Average)",
+      "Cleanse raw data to standardize data",
+      "Location data enrichment and visualization with Google Maps (Geocoding) for Marathon Event",
+      "Creating eBook for R basics and machine learning",
+      "Using Pentaho and R for data cleansing and mining",
+      "Crawling all news medias in Indonesia using R"
+    ],
+    "tools": ["Azure Machine Learning", "R", "Google Maps API", "Pentaho"]
+  }
+]

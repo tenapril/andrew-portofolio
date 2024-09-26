@@ -1,0 +1,54 @@
+{
+  "categories": [
+    {
+      "name": "Technical Skills",
+      "skills": [
+        { "name": "Data Engineering", "level": "Expert" },
+        { "name": "Data Analysis", "level": "Expert" },
+        { "name": "Feature Generation", "level": "Advanced" },
+        { "name": "Feature Monitoring", "level": "Advanced" },
+        { "name": "Model Monitoring", "level": "Advanced" },
+        { "name": "Model Deployment", "level": "Advanced" },
+        { "name": "CI/CD", "level": "Advanced" },
+        { "name": "Instance Management", "level": "Intermediate" },
+        { "name": "Predictive Machine Learning", "level": "Advanced" },
+        { "name": "Internet of Things", "level": "Intermediate" },
+        { "name": "Linux OS", "level": "Advanced" }
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "skills": [
+        { "name": "Python", "level": "Expert" },
+        { "name": "SQL", "level": "Advanced" },
+        { "name": "PHP", "level": "Intermediate" },
+        { "name": "HTML", "level": "Advanced" },
+        { "name": "MATLAB", "level": "Intermediate" },
+        { "name": "R", "level": "Intermediate" },
+        { "name": "C", "level": "Intermediate" },
+        { "name": "C++", "level": "Intermediate" },
+        { "name": "C#", "level": "Intermediate" },
+        { "name": "Java", "level": "Intermediate" },
+        { "name": "ReactJS", "level": "Intermediate" }
+      ]
+    },
+    {
+      "name": "Tools",
+      "skills": [
+        { "name": "GCP", "level": "Expert" },
+        { "name": "AWS", "level": "Advanced" },
+        { "name": "Alibaba Cloud", "level": "Intermediate" },
+        { "name": "Azure Machine Learning", "level": "Intermediate" },
+        { "name": "Github", "level": "Advanced" }
+      ]
+    },
+    {
+      "name": "Languages",
+      "skills": [
+        { "name": "English", "level": "Full proficiency", "certification": "TOEIC (950/990)" },
+        { "name": "Indonesian", "level": "Native" },
+        { "name": "Japanese", "level": "Intermediate", "certification": "JLPT N3, N5" }
+      ]
+    }
+  ]
+}

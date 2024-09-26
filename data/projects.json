@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Flip Level Up Event",
+      "date": "2023",
+      "description": "A project together with Algoritma and DANA. I was invited to be one of the speakers in the event, speaking about Data Protection in Fintech.",
+      "url": "https://algorit.ma/data-science-fintech/"
+    },
+    {
+      "name": "DQLAB - Feature Engineering with Python",
+      "date": "2020",
+      "description": "A project together with DQlab where I create teaching material for them. Feature Engineering with Python using Kaggle Titanic Dataset.",
+      "url": "https://dqlab.id/"
+    },
+    {
+      "name": "KUACI",
+      "date": "2019",
+      "description": "Create an Open Source KYC for KTP based on the data from Government. It translates people's KTP number into Location, Gender, and DOB.",
+      "achievements": ["Contribute to Github Arctic Code Vault"],
+      "url": "https://github.com/tenapril/kuaci"
+    }
+  ]
