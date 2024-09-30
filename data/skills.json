@@ -3,51 +3,51 @@
     {
       "name": "Technical Skills",
       "skills": [
-        { "name": "Data Engineering", "level": "Expert" },
-        { "name": "Data Analysis", "level": "Expert" },
-        { "name": "Feature Generation", "level": "Advanced" },
-        { "name": "Feature Monitoring", "level": "Advanced" },
-        { "name": "Model Monitoring", "level": "Advanced" },
-        { "name": "Model Deployment", "level": "Advanced" },
-        { "name": "CI/CD", "level": "Advanced" },
-        { "name": "Instance Management", "level": "Intermediate" },
-        { "name": "Predictive Machine Learning", "level": "Advanced" },
-        { "name": "Internet of Things", "level": "Intermediate" },
-        { "name": "Linux OS", "level": "Advanced" }
+        "Data Engineering",
+        "Data Analysis",
+        "Feature Generation",
+        "Feature Monitoring",
+        "Model Monitoring",
+        "Model Deployment",
+        "CI/CD",
+        "Instance Management",
+        "Predictive Machine Learning",
+        "Internet of Things",
+        "Linux OS"
       ]
     },
     {
       "name": "Programming Languages",
       "skills": [
-        { "name": "Python", "level": "Expert" },
-        { "name": "SQL", "level": "Expert" },
-        { "name": "PHP", "level": "Intermediate" },
-        { "name": "HTML", "level": "Advanced" },
-        { "name": "MATLAB", "level": "Intermediate" },
-        { "name": "R", "level": "Advanced" },
-        { "name": "C", "level": "Intermediate" },
-        { "name": "C++", "level": "Intermediate" },
-        { "name": "C#", "level": "Intermediate" },
-        { "name": "Java", "level": "Intermediate" },
-        { "name": "ReactJS", "level": "Intermediate" }
+        "Python",
+        "SQL",
+        "PHP",
+        "HTML",
+        "MATLAB",
+        "R",
+        "C",
+        "C++",
+        "C#",
+        "Java",
+        "ReactJS"
       ]
     },
     {
       "name": "Tools",
       "skills": [
-        { "name": "GCP", "level": "Expert" },
-        { "name": "AWS", "level": "Advanced" },
-        { "name": "Alibaba Cloud", "level": "Intermediate" },
-        { "name": "Azure Machine Learning", "level": "Intermediate" },
-        { "name": "Github", "level": "Advanced" }
+        "GCP",
+        "AWS",
+        "Alibaba Cloud",
+        "Azure Machine Learning",
+        "Github"
       ]
     },
     {
       "name": "Languages",
       "skills": [
-        { "name": "English", "level": "Full proficiency", "certification": "TOEIC (950/990)" },
-        { "name": "Indonesian", "level": "Native" },
-        { "name": "Japanese", "level": "Intermediate", "certification": "JLPT N3, N5" }
+        "English",
+        "Indonesian",
+        "Japanese"
       ]
     }
   ]
